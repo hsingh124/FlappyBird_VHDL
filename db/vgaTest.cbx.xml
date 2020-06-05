@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="vgaTest">
+		<CBX_INST_ENTRY INSTANCE_NAME="|vgaTest|altpll1:inst|altpll:altpll_component" CBX_FILE_NAME="altpll1_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vgaTest|display:inst4|bouncy_ball:bird|char_rom:textlives|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kt91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vgaTest|display:inst4|gameover:game_over_screen|char_rom:scoretext|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kt91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vgaTest|display:inst4|gameover:game_over_screen|char_rom:text|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kt91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vgaTest|display:inst4|menu:menu_screen|char_rom:info|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kt91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vgaTest|display:inst4|bouncy_ball:bird|char_rom:textscore|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kt91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vgaTest|display:inst4|menu:menu_screen|char_rom:text|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kt91.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
